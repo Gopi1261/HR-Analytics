@@ -1,4 +1,4 @@
-# Project-2
+# HR Data analysis
 This project deals with the data exploration of a Human Resource data using SQL.
 
 CREATE DATABASE projects_hr;

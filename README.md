@@ -1,5 +1,5 @@
 # Project-2
-This project deals with the data exploration of a Human Resource data using SQL and Power BI
+This project deals with the data exploration of a Human Resource data using SQL.
 
 CREATE DATABASE projects_hr;
 
